@@ -1,0 +1,12 @@
+C:\Users\iceman\Deskto\Rubix\Rubix\bin\Debug\Rubix.exe
+C:\Users\iceman\Deskto\Rubix\Rubix\bin\Debug\Rubix.pdb
+C:\Users\iceman\Deskto\Rubix\Rubix\obj\x86\Debug\Rubix.FormMain.resources
+C:\Users\iceman\Deskto\Rubix\Rubix\obj\x86\Debug\Rubix.Properties.Resources.resources
+C:\Users\iceman\Deskto\Rubix\Rubix\obj\x86\Debug\Rubix.csproj.GenerateResource.Cache
+C:\Users\iceman\Deskto\Rubix\Rubix\obj\x86\Debug\Rubix.exe
+C:\Users\iceman\Deskto\Rubix\Rubix\obj\x86\Debug\Rubix.pdb
+C:\Users\iceman\Deskto\Rubix\Rubix\obj\x86\Debug\Rubix.csprojResolveAssemblyReference.cache
+C:\Users\iceman\Deskto\Rubix\Rubix\obj\x86\Debug\Rubix.FormViewer.resources
+C:\Users\iceman\Deskto\Rubix\Rubix\obj\x86\Debug\Rubix.FormReport.resources
+C:\Users\iceman\Deskto\Rubix\Rubix\obj\x86\Debug\RdlCompile.cache
+C:\Users\iceman\Deskto\Rubix\Rubix\obj\x86\Debug\RdlCompile.compiled
